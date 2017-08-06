@@ -1,0 +1,52 @@
+#carousel img {
+    margin: 0 auto;
+}
+nav {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+#plot{
+	margin-top: 50px;
+	margin-bottom: 0;
+	background-color: black;
+}
+#gameplay{
+	overflow: auto;
+	margin-top: -10px;
+	background-color: black;
+}
+#trailers{
+    margin-top: -20px;
+	background-color: black;
+}
+#photos{
+	margin-top: -20px;
+	background-color: black;
+}
+*{
+	color: white;
+}
+.main{
+	background-color: black;
+}
+#ds3logo {
+  float: right;
+}
+#footer{
+	overflow: auto;
+    max-width: 1140px;
+    margin: 0 auto;
+    background-color: black;
+}
+.fa {
+	padding: 50px;
+    font-size: 50px;
+    max-width: 350px;
+    text-align: center;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.social-links{
+	text-align: center;
+}

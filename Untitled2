@@ -1,0 +1,17 @@
+        <div id="contact">
+            <h3>Don't forget to drop me a line</h3>
+        	<form method="POST" action="https://formspree.io/spirnyak2010@gmail.com">
+        	    <input type="text" placeholder="Name"><br>
+        		<input type="email" placeholder="E-mail" required><br>
+        		<textarea placeholder="Your message"></textarea><br>
+                <input type="submit" value="Send">
+                <input type="reset" value="Reset">
+        	</form>
+        </div>
+        <div>
+            <h3>My contacts</h3>
+            <ul>
+        		<li>+38(067)-596-55-90</li>
+        		<li>https://www.facebook.com/yura.spirnyak</li>
+    	    </ul>
+	    </div>
