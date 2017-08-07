@@ -15,3 +15,22 @@
         		<li>https://www.facebook.com/yura.spirnyak</li>
     	    </ul>
 	    </div>
+	    
+	    
+	    
+	    
+	    
+	    #footer{
+	overflow: auto;
+    max-width: 1140px;
+    margin: 0 auto;
+    background-color: black;
+}
+.fa {
+    font-size: 50px;
+    max-width: 350px;
+    text-align: center;
+}
+.fa:hover {
+    opacity: 0.7;
+}
